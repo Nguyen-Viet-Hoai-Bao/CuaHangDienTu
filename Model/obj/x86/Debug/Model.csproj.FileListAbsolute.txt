@@ -1,0 +1,6 @@
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\bin\x86\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\bin\x86\Debug\Model.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\x86\Debug\Model.csproj.AssemblyReference.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\x86\Debug\Model.csproj.CoreCompileInputs.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\x86\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\x86\Debug\Model.pdb

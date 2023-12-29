@@ -1,0 +1,333 @@
+C:\BT_C#\Solution2\CK_NET\obj\Debug\UI_Tier.csproj.AssemblyReference.cache
+C:\BT_C#\Solution2\CK_NET\obj\Debug\UI_Tier.csproj.SuggestedBindingRedirects.cache
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.Form1.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.Properties.Resources.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\UI_Tier.csproj.GenerateResource.cache
+C:\BT_C#\Solution2\CK_NET\obj\Debug\UI_Tier.csproj.CoreCompileInputs.cache
+C:\BT_C#\Solution2\CK_NET\bin\Debug\CK_NET.exe.config
+C:\BT_C#\Solution2\CK_NET\bin\Debug\CK_NET.exe
+C:\BT_C#\Solution2\CK_NET\bin\Debug\CK_NET.pdb
+C:\BT_C#\Solution2\CK_NET\bin\Debug\Bus_Tier.dll
+C:\BT_C#\Solution2\CK_NET\bin\Debug\Model.dll
+C:\BT_C#\Solution2\CK_NET\bin\Debug\Connector_Tier.dll
+C:\BT_C#\Solution2\CK_NET\bin\Debug\Bus_Tier.pdb
+C:\BT_C#\Solution2\CK_NET\bin\Debug\Model.pdb
+C:\BT_C#\Solution2\CK_NET\bin\Debug\Connector_Tier.pdb
+C:\BT_C#\Solution2\CK_NET\obj\Debug\UI_Tier.csproj.CopyComplete
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.exe
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.pdb
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.Login.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.frmAssets.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.frmNewAssets.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.frmDanhSachAssets.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.frmDanhSachUser.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.frmNewUser.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.frmUser.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.ViewHoaDon.frmDanhSachHoaDon.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTietHoaDon.resources
+C:\BT_C#\Solution2\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTiet.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\CK_NET.exe.config
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\CK_NET.exe
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\CK_NET.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Bus_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Connector_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Bus_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Model.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Connector_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.AssemblyReference.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.SuggestedBindingRedirects.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmDanhSachAssets.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTiet.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTietHoaDon.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewHoaDon.frmDanhSachHoaDon.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmDanhSachUser.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Form1.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmAssets.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmNewAssets.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmNewUser.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Login.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Properties.Resources.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmUser.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.GenerateResource.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.CoreCompileInputs.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.CopyComplete
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.exe
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Trangchu.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Welcom.resources
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Ads.Common.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.AdWords.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.PlatformServices.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Options.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Primitives.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Win32.Primitives.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Remotion.Linq.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.AppContext.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Collections.Immutable.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Console.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Globalization.Calendars.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Interactive.Async.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.IO.Compression.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.IO.Compression.ZipFile.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.IO.FileSystem.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.IO.FileSystem.Primitives.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Net.Http.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Net.Sockets.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Algorithms.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Encoding.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Primitives.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.ServiceModel.Http.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Xml.ReaderWriter.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Ads.Common.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.AdWords.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Options.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Primitives.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\Remotion.Linq.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Collections.Immutable.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Interactive.Async.xml
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\CK_NET.exe.config
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\CK_NET.exe
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\CK_NET.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Bus_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Ads.Common.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.AdWords.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Win32.Primitives.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Model.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Remotion.Linq.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.AppContext.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Collections.Immutable.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Console.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Globalization.Calendars.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Interactive.Async.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.IO.Compression.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.IO.Compression.ZipFile.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.IO.FileSystem.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Net.Http.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Net.Sockets.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Algorithms.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Encoding.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Primitives.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.ServiceModel.Http.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Xml.ReaderWriter.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Connector_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Bus_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Model.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Ads.Common.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.AdWords.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Remotion.Linq.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Collections.Immutable.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Interactive.Async.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\bin\Debug\Connector_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Trangchu.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmDanhSachAssets.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTiet.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTietHoaDon.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewHoaDon.frmDanhSachHoaDon.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmDanhSachUser.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Form1.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmAssets.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmNewAssets.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmNewUser.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Login.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Properties.Resources.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmUser.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Welcom.resources
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.GenerateResource.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.exe
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewAssets.frmDanhSachAssets_User.resources
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\CK_NET.exe.config
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\CK_NET.exe
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\CK_NET.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Bus_Tier.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Ads.Common.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.AdWords.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.PlatformServices.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Options.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Win32.Primitives.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Model.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Remotion.Linq.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.AppContext.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Collections.Immutable.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Console.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Globalization.Calendars.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Interactive.Async.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.IO.Compression.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.IO.Compression.ZipFile.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.IO.FileSystem.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.IO.FileSystem.Primitives.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Net.Http.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Net.Sockets.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Algorithms.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Encoding.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.Primitives.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Security.Cryptography.X509Certificates.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.ServiceModel.Http.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Xml.ReaderWriter.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Connector_Tier.dll
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Bus_Tier.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Model.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Ads.Common.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.AdWords.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Auth.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Google.Apis.Core.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.Relational.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.EntityFrameworkCore.SqlServer.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Abstractions.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Caching.Memory.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Options.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.pdb
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Newtonsoft.Json.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Remotion.Linq.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Collections.Immutable.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Interactive.Async.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\HK1\QuanLiAssets\CK_NET\bin\Debug\Connector_Tier.pdb
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.AssemblyReference.cache
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.SuggestedBindingRedirects.cache
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Trangchu.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmDanhSachAssets.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewAssets.frmDanhSachAssets_User.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTiet.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewChiTietHoaDon.frmChiTietHoaDon.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.ViewHoaDon.frmDanhSachHoaDon.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmDanhSachUser.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Form1.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmAssets.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmNewAssets.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmNewUser.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Login.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Properties.Resources.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.frmUser.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.Welcom.resources
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.GenerateResource.cache
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.CoreCompileInputs.cache
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\UI_Tier.csproj.CopyComplete
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.exe
+D:\HK1\QuanLiAssets\CK_NET\obj\Debug\CK_NET.pdb

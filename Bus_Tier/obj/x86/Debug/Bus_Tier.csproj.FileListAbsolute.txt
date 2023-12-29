@@ -1,0 +1,11 @@
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\x86\Debug\Bus_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\x86\Debug\Bus_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\x86\Debug\Connector_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\x86\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\x86\Debug\Connector_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\x86\Debug\Model.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\x86\Debug\Bus_Tier.csproj.AssemblyReference.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\x86\Debug\Bus_Tier.csproj.CoreCompileInputs.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\x86\Debug\Bus_Tier.csproj.CopyComplete
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\x86\Debug\Bus_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\x86\Debug\Bus_Tier.pdb

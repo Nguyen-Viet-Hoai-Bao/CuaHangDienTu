@@ -1,0 +1,24 @@
+C:\BT_C#\Solution2\Connector_Tier\bin\Debug\Connector_Tier.dll
+C:\BT_C#\Solution2\Connector_Tier\bin\Debug\Connector_Tier.pdb
+C:\BT_C#\Solution2\Connector_Tier\obj\Debug\Connector_Tier.csproj.AssemblyReference.cache
+C:\BT_C#\Solution2\Connector_Tier\obj\Debug\Connector_Tier.csproj.CoreCompileInputs.cache
+C:\BT_C#\Solution2\Connector_Tier\obj\Debug\Connector_Tier.dll
+C:\BT_C#\Solution2\Connector_Tier\obj\Debug\Connector_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Connector_Tier\bin\Debug\Connector_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Connector_Tier\bin\Debug\Connector_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.csproj.AssemblyReference.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.csproj.CoreCompileInputs.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Connector_Tier\bin\Debug\Connector_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Connector_Tier\bin\Debug\Connector_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.pdb
+D:\HK1\QuanLiAssets\Connector_Tier\bin\Debug\Connector_Tier.dll
+D:\HK1\QuanLiAssets\Connector_Tier\bin\Debug\Connector_Tier.pdb
+D:\HK1\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.csproj.AssemblyReference.cache
+D:\HK1\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.csproj.CoreCompileInputs.cache
+D:\HK1\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.dll
+D:\HK1\QuanLiAssets\Connector_Tier\obj\Debug\Connector_Tier.pdb

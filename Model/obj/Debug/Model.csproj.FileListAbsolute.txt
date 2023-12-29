@@ -1,0 +1,18 @@
+C:\BT_C#\Solution2\Model\bin\Debug\Model.dll
+C:\BT_C#\Solution2\Model\bin\Debug\Model.pdb
+C:\BT_C#\Solution2\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\BT_C#\Solution2\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\BT_C#\Solution2\Model\obj\Debug\Model.dll
+C:\BT_C#\Solution2\Model\obj\Debug\Model.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\bin\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\bin\Debug\Model.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Model\obj\Debug\Model.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Model\bin\Debug\Model.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Model\bin\Debug\Model.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Model\obj\Debug\Model.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Model\obj\Debug\Model.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Model\obj\Debug\Model.pdb

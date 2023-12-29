@@ -1,0 +1,44 @@
+C:\BT_C#\Solution2\Bus_Tier\obj\Debug\Bus_Tier.csproj.AssemblyReference.cache
+C:\BT_C#\Solution2\Bus_Tier\obj\Debug\Bus_Tier.csproj.CoreCompileInputs.cache
+C:\BT_C#\Solution2\Bus_Tier\bin\Debug\Bus_Tier.dll
+C:\BT_C#\Solution2\Bus_Tier\bin\Debug\Bus_Tier.pdb
+C:\BT_C#\Solution2\Bus_Tier\bin\Debug\Connector_Tier.dll
+C:\BT_C#\Solution2\Bus_Tier\bin\Debug\Model.dll
+C:\BT_C#\Solution2\Bus_Tier\bin\Debug\Connector_Tier.pdb
+C:\BT_C#\Solution2\Bus_Tier\bin\Debug\Model.pdb
+C:\BT_C#\Solution2\Bus_Tier\obj\Debug\Bus_Tier.csproj.CopyComplete
+C:\BT_C#\Solution2\Bus_Tier\obj\Debug\Bus_Tier.dll
+C:\BT_C#\Solution2\Bus_Tier\obj\Debug\Bus_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\Debug\Bus_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\Debug\Bus_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\Debug\Connector_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\Debug\Model.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\Debug\Connector_Tier.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\bin\Debug\Model.pdb
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.AssemblyReference.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.CoreCompileInputs.cache
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.CopyComplete
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.dll
+G:\BachKhoa\Code\C#\QuanLiAssets2\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\bin\Debug\Bus_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\bin\Debug\Bus_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\bin\Debug\Connector_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\bin\Debug\Model.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\bin\Debug\Connector_Tier.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\bin\Debug\Model.pdb
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.CopyComplete
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.dll
+C:\Users\DELL\OneDrive\Máy tính\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.pdb
+D:\HK1\QuanLiAssets\Bus_Tier\bin\Debug\Bus_Tier.dll
+D:\HK1\QuanLiAssets\Bus_Tier\bin\Debug\Bus_Tier.pdb
+D:\HK1\QuanLiAssets\Bus_Tier\bin\Debug\Connector_Tier.dll
+D:\HK1\QuanLiAssets\Bus_Tier\bin\Debug\Model.dll
+D:\HK1\QuanLiAssets\Bus_Tier\bin\Debug\Connector_Tier.pdb
+D:\HK1\QuanLiAssets\Bus_Tier\bin\Debug\Model.pdb
+D:\HK1\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.AssemblyReference.cache
+D:\HK1\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.CoreCompileInputs.cache
+D:\HK1\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.csproj.CopyComplete
+D:\HK1\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.dll
+D:\HK1\QuanLiAssets\Bus_Tier\obj\Debug\Bus_Tier.pdb
